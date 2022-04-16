@@ -1,0 +1,1 @@
+let reCriminals = /C+/; // find one or more C in a string
